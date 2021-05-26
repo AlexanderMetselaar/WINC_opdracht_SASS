@@ -1,0 +1,10 @@
+$padding:  padding 20px;
+$background-black: #000;
+$background-greenm: #97d279;
+$background-greenl: #c0eea9;
+
+@mixin standard-text {
+    max-width: 700px;
+    text-align: center;
+    padding-top: 1em;
+}
